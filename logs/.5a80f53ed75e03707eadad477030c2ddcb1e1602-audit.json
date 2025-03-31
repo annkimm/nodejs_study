@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/mj/Documents/문서 - 김민지의 MacBook Air/Node/logs/.5a80f53ed75e03707eadad477030c2ddcb1e1602-audit.json",
+    "files": [
+        {
+            "date": 1743071940574,
+            "name": "/Users/mj/Documents/문서 - 김민지의 MacBook Air/Node/logs/2025-03-27.log",
+            "hash": "514f5b92f3ff8a9f9584f49a41c6e8239b03ebfc02f63640a8c03ea30df2e371"
+        }
+    ],
+    "hashType": "sha256"
+}
